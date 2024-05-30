@@ -1,5 +1,0 @@
-n_qubits:4
-gates:
-['ID']
-['Sc', 'St']	['CZc', 'CZt']
-id equivalences:
