@@ -1,0 +1,4 @@
+Simulation of circuit [['ID', 'Sc', 'St', 'ID'], ['CZc', 'CZc', 'CZt', 'CZt']] (2024-06-09 15:46:33.191058)
+Td_max=2, Ti_max=2, dt=0.25
+N_list = [2, 4, 6, 8]
+d_list = [2, 3]
